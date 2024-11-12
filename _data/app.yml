@@ -1,21 +1,38 @@
-name: Mobile App Name
-description: A super tagline for the mobile app
-full_description: 'A more complete description of the mobile app<br>
-<br>With a lot of features:
-<br>- Feature 1
-<br>- Feature 2
-<br>- Feature 3'
-android: https://telegra.ph/Replace-this-link-07-23
-iOS: https://telegra.ph/Replace-this-link-07-23
-web: https://telegra.ph/Replace-this-link-07-23
+name: Superate
+description: Find Influencers to promote your brand
+full_description: "Looking for the perfect influencers to promote your business and elevate your brand? Superate  makes it easy! Whether you are a small business or a big brand, our app connects you with the right influencers to grow your audience and maximize your marketing efforts.<br>
+<br>With a lot of features
+<br> 1. Find the Perfect Match
+Search through a diverse range of influencers based on demographics, price, platform, and more. Our advanced filters ensure you find the right talent for your specific campaign needs.
+
+<br> 2. Customized Search Options
+Discover influencers by gender, location, social media platform (Instagram, TikTok, YouTube, etc.), follower count, engagement rate, and pricing. Tailor your search to match your brand's target audience and budget.
+
+<br> 3. Detailed Influencer Profiles
+Access in-depth information about each influencer, including follower statistics, previous collaborations, audience insights, and pricing details, to help you make the best decision.
+
+<br> 4. Secure and Easy Communication
+Connect with influencers directly through our secure in-app messaging system. Discuss campaign details, negotiate terms, and track the progress of your collaborations in one place.
+<br>
+Why Choose Superate?
+
+Easy to Use- Simple, intuitive interface designed for quick browsing and searching.
+Quality Talent- Access a verified network of influencers across various niches and platforms.
+Save Time- Find, connect, and manage influencers without leaving the app.
+Get Started Today!
+Download Superate now and find the right influencers to boost your business. Empower your brand with the power of social media influencers and watch your reach grow like never before!
+"
+android: https://play.google.com/store/apps/details?id=com.supeerate.brand
+iOS: https://apps.apple.com/us/app/superate-hire-influencers/id6737245977?platform=iphone
+web: https:/superate.app
 screenshots:
   - 1.png
   - 2.png
   - 3.png
   - 4.png
-producthunt: https://telegra.ph/Replace-this-link-07-23
-companies:
-  - url: https://telegra.ph/Replace-this-link-07-23
-    image: androidpolice.png
-  - url: https://telegra.ph/Replace-this-link-07-23
-    image: producthunt.png
+# producthunt: https://telegra.ph/Replace-this-link-07-23
+# companies:
+#   - url: https://telegra.ph/Replace-this-link-07-23
+#     image: androidpolice.png
+#   - url: https://telegra.ph/Replace-this-link-07-23
+#     image: producthunt.png
